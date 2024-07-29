@@ -1,2 +1,2 @@
 # calculadora_4_Operacoes
-Calculadora de 4 Operações
+Fiz uma calculadora de 4 operações para testar o que aprendi, até o momento sobre o python.
